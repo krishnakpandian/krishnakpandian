@@ -9,5 +9,5 @@
 - 👻 My current projects are mostly useful memes so don't judge them too much
 - 🐼 My favorite animal is a panda
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I set my git config with the wrong email ever since making a github and now my contributions are inaccurate. I don't plan on fixing it even though it is git config user.email :/ 
+- ⚡ Fun fact: I set my git config with the wrong email and it took my 3+ years to fix it :/ 
 
